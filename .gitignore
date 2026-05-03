@@ -1,0 +1,12 @@
+venv
+.vnev
+env
+.env
+prompt.txt
+__pycache__
+*.pyc
+*.pyo
+venv/
+Extract_APIs/
+output/
+profiles/
